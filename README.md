@@ -1,5 +1,4 @@
-# my-personal-generic-cpp-lib
-A organized collection fo header files i use in my personal projects
+# my-personal-cpp-lib
+This is a collection of header files I use in all my cpp projects.
 
-docs and usage on the wiki:
-https://github.com/CondeSaheki/my-personal-generic-cpp-lib/wiki
+# check the [documentation](https://github.com/CondeSaheki/my-personal-generic-cpp-lib/wiki)
